@@ -1,0 +1,33 @@
+body{
+	font-size: 18px;
+	background-color: F6F6F6;
+	border-top:5px solid #222222;
+	border-bottom:5px solid #222222;
+	padding: 50px;
+	margin: 30px;    
+}
+
+nav{
+	font-family: helvetica;
+	text-align: center;
+	font-weight: bold;
+}
+
+
+img{ 
+   	border:1px solid #000000;
+    margin: 20px;
+	padding:3px;
+	float: right;
+	height: 200px;
+}
+
+h1, h3{
+	font-family: helvetica;
+	font-style:bold;
+}
+
+
+h1{
+	text-align: center;
+}
