@@ -1,0 +1,66 @@
+body{
+	font-size: 18px;
+	background-color: F6F6F6;
+	border-top:5px solid #222222;
+	border-bottom:5px solid #222222;
+	padding: 50px;
+	margin: 30px;    
+}
+
+nav{
+	font-family: helvetica;
+	text-align: center;
+	font-weight: bold;
+}
+
+
+img{ 
+   	border:1px solid #000000;
+   	padding: 3px;
+   	margin: 20px;
+	height: 300px;
+	display: block;
+}
+
+.aboutme img{ 
+	border:1px solid #000000;
+   	padding: 3px;
+   	float: right;
+   	height: 200px;
+}
+
+h1, h3{
+	font-family: helvetica;
+	font-style:bold;
+}
+
+
+h1 {
+	text-align: center;
+}
+
+.bold{
+	font-style: italic;
+	font-weight: bold;
+}
+
+.small{
+	font-size: 12px;
+	font font-family: helvetica;
+}
+
+.wrap{
+	width:100%;
+	height:auto;
+}
+
+.left-side{
+	width:60%;
+	float:left;
+}
+
+.right-side{
+	width:38%;
+	float:right;
+}
+
